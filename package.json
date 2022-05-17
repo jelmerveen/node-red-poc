@@ -1,0 +1,15 @@
+{
+  "name": "red-project",
+  "version": "1.0.0",
+  "description": "A test express project for work-flows",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jelmer Veen <https://github.com/jelmerveen>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-red": "^2.2.2"
+  }
+}
